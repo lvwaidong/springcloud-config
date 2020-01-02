@@ -1,5 +1,5 @@
 server: 
-  port: 38094
+  port: 38084
 #  http.port: 7002
 
 spring:
